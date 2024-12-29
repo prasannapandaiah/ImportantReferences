@@ -8,8 +8,6 @@
 * [Only Wei Git](https://onlywei.github.io/explain-git-with-d3/)
 * [Oh My Git](https://ohmygit.org/)
 
-
-
 # Awesome Git Repos
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 * [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) 
@@ -35,15 +33,14 @@
 * [Microsoft Repos](https://github.com/orgs/microsoft/repositories)
 * [Xtremilicious/projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning)
 * [Gpal Project Based Learning](https://github.com/gopala-kr/pbl)
-* 
-
+ 
 # Dynamics 365/PowerPlatform Repos
 * [Business Central](https://github.com/wbrakowski/Most-Useful-BC-Repositories)
 * [General Repos](https://github.com/topics/d365?o=asc&s=stars)
 * [D365](https://github.com/topics/dynamics-365?l=javascript)
 * [D365 DevOps](https://github.com/devkeydet/dyn365-ce-devops)
 * [D365 Patterns](https://github.com/microsoft/dynamics365patternspractices)
-* 
+ 
 
 
 
