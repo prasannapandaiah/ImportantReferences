@@ -10,6 +10,7 @@
 
 # Git Course
 * [Learn Git – Full Course for Beginners](https://www.youtube.com/watch?v=zTjRZNkhiEU&t=9444s&pp=ygUGZ2l0aHVi)
+* [GitHub Foundations Certification Course ](https://www.youtube.com/watch?v=Jdc0i7RcBv8&t=93s)
 
 # Awesome Git Repos
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
