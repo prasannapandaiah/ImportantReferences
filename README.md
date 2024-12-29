@@ -1,12 +1,14 @@
 # gitone
-Test Git
+
+[Git Format Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 # Learning Git Visually
 * [Learning Git Branching](https://learngitbranching.js.org/)
 * [Visual Git Mark](https://marklodato.github.io/)
 * [Only Wei Git](https://onlywei.github.io/explain-git-with-d3/)
 * [Oh My Git](https://ohmygit.org/)
 
-[Git Format Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 
 # Awesome Git Repos
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
