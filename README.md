@@ -8,6 +8,9 @@
 * [Only Wei Git](https://onlywei.github.io/explain-git-with-d3/)
 * [Oh My Git](https://ohmygit.org/)
 
+# Git Course
+* [Learn Git – Full Course for Beginners](https://www.youtube.com/watch?v=zTjRZNkhiEU&t=9444s&pp=ygUGZ2l0aHVi)
+
 # Awesome Git Repos
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 * [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) 
